@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\bin\Debug\net6.0\Guessing Number.exe
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\bin\Debug\net6.0\Guessing Number.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\bin\Debug\net6.0\Guessing Number.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\bin\Debug\net6.0\Guessing Number.dll
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\bin\Debug\net6.0\Guessing Number.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.dll
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\refint\Guessing Number.dll
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\Guessing Number.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\Guessing Number\obj\Debug\net6.0\ref\Guessing Number.dll
